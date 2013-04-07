@@ -57,7 +57,7 @@ Write-Host "Press the any key to close the window ..."
 $x = $host.UI.RawUI.ReadKey("NoEcho,IncludeKeyDown")
 
 <#
-Systems-Status
+SystemUpTime
 Copyright (C) 2013  Zachary Zeilinger
 
     This program is free software: you can redistribute it and/or modify
